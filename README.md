@@ -37,7 +37,7 @@
 
 - :zap: In my free time, I solve problems and read tech articles.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohali/)
+- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohali/)  [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-blue?style=flat&logo=Hotmail&logoColor=white)](mailto:mohalikhan@hotmail.com)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
