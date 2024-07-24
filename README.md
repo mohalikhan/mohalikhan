@@ -80,4 +80,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohalikhan&theme=highcontrast&hide=html,gherkin&langs_count=10)]()
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohalikhan&count_private=true&theme=highcontrast&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohalikhan&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true)]()
