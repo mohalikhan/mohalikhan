@@ -33,7 +33,7 @@
 
 - :telescope: I’m consultant as a Senior UI Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: I like coding, I like solving problems, I like learning about new technologies and aspects of the software. I love working in a team of smart and talented individuals that I know will understand problems and be able to come up with clear solutions.
+- :seedling: I possess a strong passion for coding and problem-solving and am constantly seeking to learn new technologies and advancements in software development. I excel in collaborative environments, where I can work with smart and talented team members to understand and tackle complex issues and create clear solutions. I have a proven ability to translate business requirements into functional software and have a track record of delivering high-quality, on-time, scalable, performance-optimized, and maintainable applications. I am a highly motivated individual who is dedicated to continuous learning, able to adapt to tight deadlines, and have effective communication skills with both technical and non-technical colleagues. I foster a culture of learning and idea-sharing and am always open to new methods of working.
 
 - :zap: In my free time, I solve problems and read tech articles.
 
@@ -79,5 +79,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohalikhan&theme=highcontrast)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohalikhan&theme=highcontrast&hide=html,gherkin&langs_count=10)]()
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mohalikhan&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true)]()
