@@ -76,6 +76,6 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohalikhan&theme=highcontrast)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohalikhan&theme=dark&border_radius=5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohalikhan&theme=highcontrast&hide=html,gherkin&langs_count=10)]()
